@@ -1,3 +1,4 @@
+dd :wq
 dddd
 xxx
 master add 1
